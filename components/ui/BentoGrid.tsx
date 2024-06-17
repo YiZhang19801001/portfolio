@@ -1,5 +1,3 @@
-'use client';
-
 import { useState } from 'react';
 import { cn } from '@/utils/cn';
 import { BackgroundGradientAnimation } from './GradientBg';
